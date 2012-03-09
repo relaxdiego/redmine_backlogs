@@ -1,0 +1,1 @@
+This repository has moved to [https://github.com/backlogs/redmine_backlogs](https://github.com/backlogs/redmine_backlogs). Please update your bookmarks.
